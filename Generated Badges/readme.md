@@ -1,1 +1,0 @@
-## The Generated Badges
