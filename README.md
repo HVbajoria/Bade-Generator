@@ -1,5 +1,5 @@
 ## Badge Generator 📛
-It is a project made to help the hackathon organizers give out custom social media badges to it's particpants. 🏆
+It is a project made to help the hackathon organizers give out custom social media badges to it's particpants. 🏆 </br>
 This will help add some fun and interaction in the hackathon.
 </br>
 
