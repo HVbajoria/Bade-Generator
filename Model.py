@@ -28,7 +28,7 @@ placeholder=st.empty()
 with placeholder.container():
         st.title("Hackathon Badge Generator")
         st.subheader("This App Takes A Photo And Generates A Custom Badge For The Participant")
-        st.write("This app is made by Harshavardhan Bajoria and Anubhav Mukhoty as part of HackX Project")
+        st.write("This app is made by Harshavardhan Bajoria")
 
 # The selection bar
 add_selectbox = st.sidebar.selectbox(
@@ -46,7 +46,6 @@ if add_selectbox=="About":
     st.subheader("You May Report Bugs By Using Any Contact Method Listed Below.")
     st.subheader("Email :")
     st.write("hvbajoria@hotmail.com")
-    st.write("anubhavmukhoty1@gmail.com")
     st.subheader("LinkedIn:")
     st.write("https://www.linkedin.com/in/harshavardhan-bajoria")
 
