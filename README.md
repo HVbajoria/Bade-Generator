@@ -1,12 +1,17 @@
-## Badge Generator
-## This is a project made by Innovation Redefined Team for HackX competition organised by ScalerBit. 🏆
+## Badge Generator 📛
+It is a project made to help the hackathon organizers give out custom social media badges to it's particpants. 🏆
+This will help add some fun and interaction in the hackathon.
 </br>
 
-## Deatils :
-**Team Name** : Innovation Redefined</br>
-**Theme** : Education 📚</br>
-**About the project** : It helps the organizer of an event to give an option to it's participants to download a custom badge having their photo and name.</br>
-**Team Members** : Harshavardhan Bajoria and Anubhav Mukhoty 👬</br>
+## Deatils : 🗒️
+It gives the user 5 different badges to choose from :'
+1) The ray of code 🖥️
+2) Ocean of possibilities 🌊
+3) The coding world 🗺️
+4) The entry gate 🚪
+5) The start of journey 😄
+
+User only needs to add his/her photo and the name. And in just one click the badge will be ready for the user to view and download.
 </br>
 
 ## Libraries required before running : 📔
@@ -25,4 +30,4 @@
 4) Enjoy the application
 </br>
 
-## Thank you for trying our application ❤️
+## Thank you for trying the application ❤️
